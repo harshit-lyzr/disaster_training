@@ -1,4 +1,4 @@
 lyzr
 streamlit
 streamlit-option-menu
-openai
+openai == 1.36.1
